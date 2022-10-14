@@ -1,0 +1,17 @@
+@charset "UTF-8";
+
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {    
+    font-family: Arial, Helvetica, sans-serif;    
+}
+
+div.cafeteria {
+    min-height: 80vh;
+    background-image: url(imagens/cafeteria.jpg);
+    background-position: center center;
+}
